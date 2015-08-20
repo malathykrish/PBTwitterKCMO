@@ -1,0 +1,5829 @@
+[
+  {
+    "department": "Public Works",
+    "latitude": "39.087180221000494",
+    "longitude": "-94.56120000999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06953071200047",
+    "longitude": "-94.5853506959997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.101090574000466",
+    "longitude": "-94.58260019799968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10704096000046",
+    "longitude": "-94.57148067299966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.113440736000484",
+    "longitude": "-94.55440039199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099980926000455",
+    "longitude": "-94.58543020399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0496676410005",
+    "longitude": "-94.60253516099965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11520027100045",
+    "longitude": "-94.5395509279997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08009022800047",
+    "longitude": "-94.54310111099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0897631040005",
+    "longitude": "-94.53924786699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.31795254800045",
+    "longitude": "-94.66432847399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04235795000045",
+    "longitude": "-94.59362365299967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.02172750200049",
+    "longitude": "-94.58802131199968"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.009930058000464",
+    "longitude": "-94.43981051799966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.04857069500048",
+    "longitude": "-94.57607021399969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.04857287100049",
+    "longitude": "-94.57610551499965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.19807011500046",
+    "longitude": "-94.51332037199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.110330726000484",
+    "longitude": "-94.55419067599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.111110821000466",
+    "longitude": "-94.55740093499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.038740575000475",
+    "longitude": "-94.58368103899966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.00870057300045",
+    "longitude": "-94.58627021699965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.060290559000464",
+    "longitude": "-94.56840062299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10519039400049",
+    "longitude": "-94.57424038899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.935400434000485",
+    "longitude": "-94.55315016499969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11347069600049",
+    "longitude": "-94.55335066199967"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.102730272000485",
+    "longitude": "-94.58545094499965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09058060600046",
+    "longitude": "-94.58364070799968"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.099568124000484",
+    "longitude": "-94.58212382999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05536109600047",
+    "longitude": "-94.58617112099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04154146600047",
+    "longitude": "-94.57300619799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10222334100047",
+    "longitude": "-94.58196850499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.940140924000445",
+    "longitude": "-94.56066074099965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06874024600046",
+    "longitude": "-94.5458504559997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10884082500047",
+    "longitude": "-94.58434014399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04922391500048",
+    "longitude": "-94.58657096999968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.05515022800046",
+    "longitude": "-94.60044098599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02674070600045",
+    "longitude": "-94.5999800729997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09459100100048",
+    "longitude": "-94.58871123799969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.06122045100045",
+    "longitude": "-94.56836029199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09877102900049",
+    "longitude": "-94.58883058899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08507049800045",
+    "longitude": "-94.58158994599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10369012300049",
+    "longitude": "-94.59096000599965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.103574463000484",
+    "longitude": "-94.59214314199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09889086600049",
+    "longitude": "-94.58433092599967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.043770287000484",
+    "longitude": "-94.57285073699967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.106981042000484",
+    "longitude": "-94.55564024699964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10486084100046",
+    "longitude": "-94.58817033099967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.051590827000496",
+    "longitude": "-94.57824111299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.12118956000046",
+    "longitude": "-94.56375671199964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.100430316000484",
+    "longitude": "-94.60283081999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.00659230600047",
+    "longitude": "-94.54361338199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09056101700048",
+    "longitude": "-94.58888013699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1037604120005",
+    "longitude": "-94.58318094799967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.04303991900048",
+    "longitude": "-94.58821243599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06960100100048",
+    "longitude": "-94.55285057199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10351169900048",
+    "longitude": "-94.58416828199967"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.05978009900048",
+    "longitude": "-94.59405042799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.985470561000454",
+    "longitude": "-94.60520106399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099200830000484",
+    "longitude": "-94.58095012899969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.00800628100046",
+    "longitude": "-94.53158861099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.051870832000475",
+    "longitude": "-94.59960097199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19393933700047",
+    "longitude": "-94.6836082269997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09300040000045",
+    "longitude": "-94.58875108099966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10647058000046",
+    "longitude": "-94.55533028299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02060019300046",
+    "longitude": "-94.59308020599968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09959030200048",
+    "longitude": "-94.58845033599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.93071064500049",
+    "longitude": "-94.58336070499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08915288000048",
+    "longitude": "-94.58890670599965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09296006900047",
+    "longitude": "-94.59139095999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.106410662000485",
+    "longitude": "-94.55417108699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.042990191000456",
+    "longitude": "-94.58687055599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.983800903000486",
+    "longitude": "-94.58551086299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.038850468000476",
+    "longitude": "-94.57022511099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.983800903000486",
+    "longitude": "-94.58551086299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08954009500047",
+    "longitude": "-94.57035028399969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10315667500049",
+    "longitude": "-94.58069099999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05754006100045",
+    "longitude": "-94.5053108569997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.2162418690005",
+    "longitude": "-94.63441652299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21427358200049",
+    "longitude": "-94.57336919499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0668700920005",
+    "longitude": "-94.5719600219997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.042990191000456",
+    "longitude": "-94.58687055599967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.04014583100047",
+    "longitude": "-94.59396904399966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.09210046700048",
+    "longitude": "-94.58879025899967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10151000400049",
+    "longitude": "-94.58695006399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99293043600045",
+    "longitude": "-94.6034611179997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09269043600045",
+    "longitude": "-94.58877066999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06192103900048",
+    "longitude": "-94.58813000099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.05728079800048",
+    "longitude": "-94.60510081599966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.948530692000475",
+    "longitude": "-94.5887303399997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.035590234000495",
+    "longitude": "-94.47140033899967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.00679008900045",
+    "longitude": "-94.5798301109997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.01517063900047",
+    "longitude": "-94.57677080199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.991650250000475",
+    "longitude": "-94.57776061199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.088686761000474",
+    "longitude": "-94.58377612899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09143099100049",
+    "longitude": "-94.58016081599965"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.2229957670005",
+    "longitude": "-94.7931064179997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11134012600047",
+    "longitude": "-94.58255064999969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09096085900046",
+    "longitude": "-94.58362111999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.17728063700048",
+    "longitude": "-94.5392905119997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.106280453000466",
+    "longitude": "-94.5897604809997"
+  },
+  {
+    "department": "City Planning and Development",
+    "latitude": "39.09269043600045",
+    "longitude": "-94.58246077199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10979030600049",
+    "longitude": "-94.58371099799967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09822977300047",
+    "longitude": "-94.57509271399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04119032700049",
+    "longitude": "-94.57299016199966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.31795254800045",
+    "longitude": "-94.66432847399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11098646400046",
+    "longitude": "-94.58247760399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11098646400046",
+    "longitude": "-94.58247760399968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "38.993780149000486",
+    "longitude": "-94.51508808599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.27803219200047",
+    "longitude": "-94.47222615699968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.09210643300048",
+    "longitude": "-94.56317189199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08244088400045",
+    "longitude": "-94.57480039899968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09420378100049",
+    "longitude": "-94.52548990599968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.26729346700046",
+    "longitude": "-94.47834161599968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.05877069900049",
+    "longitude": "-94.5859706229997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.094630879000476",
+    "longitude": "-94.55624058599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.16857053500047",
+    "longitude": "-94.5805906169997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03596011700046",
+    "longitude": "-94.58610083199966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.076932540000485",
+    "longitude": "-94.58753877199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08844081800049",
+    "longitude": "-94.58376054599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03327210200047",
+    "longitude": "-94.60339760199969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.108650699000464",
+    "longitude": "-94.58041086199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02044002600047",
+    "longitude": "-94.59279098299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10223018100049",
+    "longitude": "-94.58395067199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.056940874000475",
+    "longitude": "-94.59522114699968"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.010720524000476",
+    "longitude": "-94.59315049499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.019670301000474",
+    "longitude": "-94.57424038899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04289109500047",
+    "longitude": "-94.6066506359997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.00598127800049",
+    "longitude": "-94.58414298999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.036895066000454",
+    "longitude": "-94.44797036299968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.045360437000454",
+    "longitude": "-94.60588091099964"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.05095015800049",
+    "longitude": "-94.57594000499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09054027600047",
+    "longitude": "-94.58254027899966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10369012300049",
+    "longitude": "-94.59096000599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.100070804000495",
+    "longitude": "-94.58316020699965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.166130292000446",
+    "longitude": "-94.5046833509997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10533252500045",
+    "longitude": "-94.57784192199966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.02183083100044",
+    "longitude": "-94.57988081099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.107680477000486",
+    "longitude": "-94.57254077299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.882700800000464",
+    "longitude": "-94.6073500709997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.009200664000446",
+    "longitude": "-94.58381009399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99282097000048",
+    "longitude": "-94.60401075699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.95273076100045",
+    "longitude": "-94.59596091199967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.05353011900047",
+    "longitude": "-94.59381075299967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10647058000046",
+    "longitude": "-94.55533028299965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09330114500045",
+    "longitude": "-94.5835105009997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10241109000049",
+    "longitude": "-94.58901034499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10586866800048",
+    "longitude": "-94.57366055299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.090850240000464",
+    "longitude": "-94.58601095399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10112053300048",
+    "longitude": "-94.58084066299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.999950140000465",
+    "longitude": "-94.58111029699967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.041930092000484",
+    "longitude": "-94.58801016399968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.105933364000464",
+    "longitude": "-94.58033072299969"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.11212022100045",
+    "longitude": "-94.53636025799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03982161100049",
+    "longitude": "-94.5913966229997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06354114800047",
+    "longitude": "-94.57907075699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09096085900046",
+    "longitude": "-94.5899909369997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.106822165000494",
+    "longitude": "-94.5556086689997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08937071000048",
+    "longitude": "-94.58893083699968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.58968655599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26714022600049",
+    "longitude": "-94.5165605899997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.05943691700048",
+    "longitude": "-94.60000519999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10829003400045",
+    "longitude": "-94.55977002699967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.21946108500049",
+    "longitude": "-94.49574115199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.283140819000494",
+    "longitude": "-94.67300020699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05550273500046",
+    "longitude": "-94.59306944999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11277010800046",
+    "longitude": "-94.55338062199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21427358200049",
+    "longitude": "-94.57336919499966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.085940365000454",
+    "longitude": "-94.58044082099968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.02669228300044",
+    "longitude": "-94.58308849999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.067870273000494",
+    "longitude": "-94.54780011799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.097296617000495",
+    "longitude": "-94.58460857899968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.0814602910005",
+    "longitude": "-94.55227097299968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.04512787800047",
+    "longitude": "-94.5413844529997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10676255900046",
+    "longitude": "-94.56269811799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.094830224000475",
+    "longitude": "-94.55406046799965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.07815218100046",
+    "longitude": "-94.58472341799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.966797589000464",
+    "longitude": "-94.54912355899967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10112053300048",
+    "longitude": "-94.58084066299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08344106500044",
+    "longitude": "-94.57947059899965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10919111900046",
+    "longitude": "-94.55800012099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099568124000484",
+    "longitude": "-94.58212382999966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.110950654000476",
+    "longitude": "-94.53276052899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09822977300047",
+    "longitude": "-94.57509271399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.00598127800049",
+    "longitude": "-94.58414298999969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.98314064600049",
+    "longitude": "-94.59466113799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21427358200049",
+    "longitude": "-94.57336919499966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.05947013400049",
+    "longitude": "-94.5893802279997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.23133340600049",
+    "longitude": "-94.49146352699967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.045921803000454",
+    "longitude": "-94.59012896499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10351169900048",
+    "longitude": "-94.58416828199967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.130801680000445",
+    "longitude": "-94.52603904999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04916066400045",
+    "longitude": "-94.58540024399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08482034700046",
+    "longitude": "-94.58166108699965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.108700247000456",
+    "longitude": "-94.58093053999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.040824263000445",
+    "longitude": "-94.57303719999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0843504610005",
+    "longitude": "-94.56480141799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.052860643000486",
+    "longitude": "-94.5863105469997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.11061073100046",
+    "longitude": "-94.57129054599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09190112200048",
+    "longitude": "-94.58657096299964"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.106981042000484",
+    "longitude": "-94.55564024699964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.106170987000496",
+    "longitude": "-94.54635054599964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.080134099000475",
+    "longitude": "-94.56556978899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10884082500047",
+    "longitude": "-94.5802103639997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10534019200048",
+    "longitude": "-94.58614000899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.246812402000444",
+    "longitude": "-94.6423297289997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09717050900048",
+    "longitude": "-94.58331000299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10242030800049",
+    "longitude": "-94.54426030599967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11229075900047",
+    "longitude": "-94.55234010999965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.113201061000495",
+    "longitude": "-94.55549045099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10919111900046",
+    "longitude": "-94.55800012099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.20714088200049",
+    "longitude": "-94.59574082599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.105870241000446",
+    "longitude": "-94.53889067099965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.078800824000496",
+    "longitude": "-94.5736100909997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099831243000494",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.108370694000484",
+    "longitude": "-94.55361107799968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11419087200045",
+    "longitude": "-94.5701901169997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10506018700045",
+    "longitude": "-94.51513060799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99358032400045",
+    "longitude": "-94.58046040999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09685017400045",
+    "longitude": "-94.58445076399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10734986100044",
+    "longitude": "-94.54224645299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0726202030005",
+    "longitude": "-94.59448604999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.9534997990005",
+    "longitude": "-94.53655812299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19210426300049",
+    "longitude": "-94.6836736409997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10810106000048",
+    "longitude": "-94.55557110999968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10586866800048",
+    "longitude": "-94.57366055299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09490051300048",
+    "longitude": "-94.55605045999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06678021400046",
+    "longitude": "-94.5391706749997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06113057300047",
+    "longitude": "-94.59398013799967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.067700888000445",
+    "longitude": "-94.54202026899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11385094900049",
+    "longitude": "-94.5563304639997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06167099400045",
+    "longitude": "-94.59448022899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06171017200046",
+    "longitude": "-94.59421059499965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.07275018900049",
+    "longitude": "-94.58269007599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06155000400048",
+    "longitude": "-94.57180100799968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "38.99989022200049",
+    "longitude": "-94.59967010899965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.0666500050005",
+    "longitude": "-94.57794036799964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06192103900048",
+    "longitude": "-94.58813000099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10104102600047",
+    "longitude": "-94.58920047099969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.00771076200044",
+    "longitude": "-94.54577094899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.965393331000485",
+    "longitude": "-94.50139017399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09905287900045",
+    "longitude": "-94.58566947199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26431043200046",
+    "longitude": "-94.47004895099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.23852012800046",
+    "longitude": "-94.53327614599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09565064900045",
+    "longitude": "-94.5833906639997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08066060800047",
+    "longitude": "-94.59434080299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10236445600049",
+    "longitude": "-94.58852766499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0926305160005",
+    "longitude": "-94.58467084899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11089073500045",
+    "longitude": "-94.57827107299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26279138300049",
+    "longitude": "-94.47034053199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09968422500049",
+    "longitude": "-94.58204732899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.084100170000454",
+    "longitude": "-94.57062106999967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.105933364000464",
+    "longitude": "-94.58033072299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.060300930000494",
+    "longitude": "-94.58913018199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10203370200048",
+    "longitude": "-94.58551209199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099562791000494",
+    "longitude": "-94.58556465699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03928099500047",
+    "longitude": "-94.5870710539997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.23270215600047",
+    "longitude": "-94.49303632399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1036405750005",
+    "longitude": "-94.58823024899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.97425078700047",
+    "longitude": "-94.60825000299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.12696046600047",
+    "longitude": "-94.52057053299967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.94569031600048",
+    "longitude": "-94.5888501769997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.074170953000475",
+    "longitude": "-94.56660075699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.01546101400049",
+    "longitude": "-94.59314012499965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11117074000049",
+    "longitude": "-94.57683071999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.111230658000466",
+    "longitude": "-94.57651038599965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.16261093000048",
+    "longitude": "-94.58141104299966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.317391229000464",
+    "longitude": "-94.66491652599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10938009300048",
+    "longitude": "-94.57566000099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11085040500046",
+    "longitude": "-94.54943059799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04222046700045",
+    "longitude": "-94.59734019399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11865020500045",
+    "longitude": "-94.52329107199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.106370332000495",
+    "longitude": "-94.58812078299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.999310624000486",
+    "longitude": "-94.58732109799968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.19807011500046",
+    "longitude": "-94.51332037199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.265897657000494",
+    "longitude": "-94.52686438899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.16451104300046",
+    "longitude": "-94.57924014199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.053390693000495",
+    "longitude": "-94.55833082599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10950108300045",
+    "longitude": "-94.55355000699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.090848407000465",
+    "longitude": "-94.55392192299968"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.089960678000466",
+    "longitude": "-94.58558115199969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.165470894000464",
+    "longitude": "-94.57913067599969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11520027100045",
+    "longitude": "-94.5395509279997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06088051600045",
+    "longitude": "-94.59520470699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.16559073200045",
+    "longitude": "-94.57909034599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09447137900048",
+    "longitude": "-94.58455814099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04214234900047",
+    "longitude": "-94.58803597499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.106606962000455",
+    "longitude": "-94.59001555599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07551105700048",
+    "longitude": "-94.58502114399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06678021400046",
+    "longitude": "-94.57291065499965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.077890520000494",
+    "longitude": "-94.57853033599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.967630924000446",
+    "longitude": "-94.4984801279997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.24405079100046",
+    "longitude": "-94.5382903309997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.276011765000476",
+    "longitude": "-94.57057970099964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.238500247000445",
+    "longitude": "-94.53424005899967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.99773084500049",
+    "longitude": "-94.59315049499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.27380041800046",
+    "longitude": "-94.53953018699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.2977701960005",
+    "longitude": "-94.58070008499965"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.04214234900047",
+    "longitude": "-94.58803597499968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.07082011600045",
+    "longitude": "-94.57989002999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.27020068800044",
+    "longitude": "-94.55845066399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.17020101300045",
+    "longitude": "-94.56596008799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.249510305000456",
+    "longitude": "-94.63886038499965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.092835780000485",
+    "longitude": "-94.58349149699967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.30373095200048",
+    "longitude": "-94.56862070799968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.276011765000476",
+    "longitude": "-94.57057970099964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.053550860000485",
+    "longitude": "-94.5952511059997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09419070700045",
+    "longitude": "-94.57883108199968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06569953400049",
+    "longitude": "-94.57682371099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26383087100049",
+    "longitude": "-94.55711055999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.276011765000476",
+    "longitude": "-94.57057970099964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.096103163000464",
+    "longitude": "-94.58450973399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09713055600048",
+    "longitude": "-94.59644875099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08728046900046",
+    "longitude": "-94.58764028099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09713055600048",
+    "longitude": "-94.59644875099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10530460600046",
+    "longitude": "-94.5817666909997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.98102044500047",
+    "longitude": "-94.59009003399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21835317500046",
+    "longitude": "-94.62075070399965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.91052035400048",
+    "longitude": "-94.58448072299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.96682087000045",
+    "longitude": "-94.50140001099965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.299870806000456",
+    "longitude": "-94.59213072599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21427358200049",
+    "longitude": "-94.57336919499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10093160000048",
+    "longitude": "-94.58088064399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99133106800048",
+    "longitude": "-94.40219080299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.246945576000485",
+    "longitude": "-94.67782326899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07082011600045",
+    "longitude": "-94.57989002999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08920597400049",
+    "longitude": "-94.58783705399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02786123600049",
+    "longitude": "-94.59236574799968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.16440042400046",
+    "longitude": "-94.57904079799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.106450991000486",
+    "longitude": "-94.5897604809997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10287085000044",
+    "longitude": "-94.57098058199966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11025979800047",
+    "longitude": "-94.5809140719997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.2162418690005",
+    "longitude": "-94.63441652299969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.08507049800045",
+    "longitude": "-94.58158994599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.24487006400045",
+    "longitude": "-94.4622500649997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08844081800049",
+    "longitude": "-94.58376054599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.95144002000046",
+    "longitude": "-94.48419720099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99463727700049",
+    "longitude": "-94.50125953799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.2162418690005",
+    "longitude": "-94.63441652299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26688652000047",
+    "longitude": "-94.46044167699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.245538775000455",
+    "longitude": "-94.5200549169997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.246981045000496",
+    "longitude": "-94.60228002799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.157762440000454",
+    "longitude": "-94.57280868899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.050862769000446",
+    "longitude": "-94.58064075699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.16451104300046",
+    "longitude": "-94.57924014199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.24569048900048",
+    "longitude": "-94.53028081599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.25872197400048",
+    "longitude": "-94.5204054299997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26714022600049",
+    "longitude": "-94.5165605899997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21427358200049",
+    "longitude": "-94.57336919499966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.16668079100049",
+    "longitude": "-94.55708059999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.104810141000485",
+    "longitude": "-94.59118009199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10430083300048",
+    "longitude": "-94.57693096799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10278097200046",
+    "longitude": "-94.5921410959997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0956206890005",
+    "longitude": "-94.5823109749997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.157762440000454",
+    "longitude": "-94.57280868899966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.103574463000484",
+    "longitude": "-94.59214314199966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.09210643300048",
+    "longitude": "-94.56317189199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.157762440000454",
+    "longitude": "-94.57280868899966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10189025700049",
+    "longitude": "-94.56940080399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05799219400046",
+    "longitude": "-94.50181787799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.101728693000496",
+    "longitude": "-94.56494335699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06392024900049",
+    "longitude": "-94.58940096899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04204878200045",
+    "longitude": "-94.58322323199968"
+  },
+  {
+    "department": "City Planning and Development",
+    "latitude": "39.0917054410005",
+    "longitude": "-94.58361879699964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.034729324000466",
+    "longitude": "-94.58854417399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.038740575000475",
+    "longitude": "-94.58368103899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06122045100045",
+    "longitude": "-94.56836029199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0495201760005",
+    "longitude": "-94.60049053399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.89368089900046",
+    "longitude": "-94.5896106839997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.20051064900048",
+    "longitude": "-94.60160018199969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.97947062600048",
+    "longitude": "-94.59097037699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.989530051000486",
+    "longitude": "-94.58279032499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.970780113000444",
+    "longitude": "-94.59683088499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.97510001900048",
+    "longitude": "-94.5777502419997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99728030200049",
+    "longitude": "-94.58249073099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.91493013800044",
+    "longitude": "-94.58436088599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.208150281000485",
+    "longitude": "-94.59644026199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99823093500049",
+    "longitude": "-94.60393009699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.2603193380005",
+    "longitude": "-94.64679042799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.17475022400049",
+    "longitude": "-94.50630066799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.17475022400049",
+    "longitude": "-94.50630066799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.191580461000456",
+    "longitude": "-94.49043028299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10549732700048",
+    "longitude": "-94.5873803669997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.97510001900048",
+    "longitude": "-94.5777502419997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.90923094900046",
+    "longitude": "-94.50967109399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19344861600047",
+    "longitude": "-94.68362998399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.25882922700049",
+    "longitude": "-94.46990224099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.089960230000486",
+    "longitude": "-94.5675252319997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09980001700046",
+    "longitude": "-94.59004048599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09023031200047",
+    "longitude": "-94.56900096099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11117074000049",
+    "longitude": "-94.57683071999969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.0668700920005",
+    "longitude": "-94.5719600219997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.00007113000049",
+    "longitude": "-94.58759073299967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.31795254800045",
+    "longitude": "-94.66432847399966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.31795254800045",
+    "longitude": "-94.66432847399966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.02768096800048",
+    "longitude": "-94.57928047199965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.099740099000485",
+    "longitude": "-94.5776004439997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.107840644000476",
+    "longitude": "-94.5434306629997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11085658000047",
+    "longitude": "-94.55184886399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08448605600046",
+    "longitude": "-94.59416119199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091220990000465",
+    "longitude": "-94.59480266499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091350331000456",
+    "longitude": "-94.56911042799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091440209000496",
+    "longitude": "-94.57663022299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06286014900047",
+    "longitude": "-94.57174108899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.210850079000465",
+    "longitude": "-94.59654050999967"
+  },
+  {
+    "department": "Water Services"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.112081043000444",
+    "longitude": "-94.55235048099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11242096600046",
+    "longitude": "-94.55340021099965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.1123244100005",
+    "longitude": "-94.54433968199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02026104200047",
+    "longitude": "-94.58757181299967"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.11308007200046",
+    "longitude": "-94.55442113299966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11168004900048",
+    "longitude": "-94.53272019799965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.014640588000475",
+    "longitude": "-94.59122042199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07042009200046",
+    "longitude": "-94.5712800879997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10950108300045",
+    "longitude": "-94.54211014799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.00922025200049",
+    "longitude": "-94.59320004299968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.056282627000485",
+    "longitude": "-94.59153628599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05207017700047",
+    "longitude": "-94.57236101699965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.109308643000475",
+    "longitude": "-94.5388750679997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1092902150005",
+    "longitude": "-94.55424022399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07080246400045",
+    "longitude": "-94.57869433599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.088686761000474",
+    "longitude": "-94.58377612899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.041930092000484",
+    "longitude": "-94.58801016399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06781035400047",
+    "longitude": "-94.57907075699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.100070804000495",
+    "longitude": "-94.58316020699965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.1123244100005",
+    "longitude": "-94.54433968199965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10807900900045",
+    "longitude": "-94.5444949679997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08420041900047",
+    "longitude": "-94.5829401209997"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.10785101400046",
+    "longitude": "-94.54378095699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.16596061500047",
+    "longitude": "-94.52150042499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.01956927000049",
+    "longitude": "-94.57299919099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10090044700047",
+    "longitude": "-94.58518015799967"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.918350112000496",
+    "longitude": "-94.58394030199969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.109633172000486",
+    "longitude": "-94.54364113199966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10966009800046",
+    "longitude": "-94.54364037799968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03861360600047",
+    "longitude": "-94.58071078299969"
+  },
+  {
+    "department": "City Planning and Development",
+    "latitude": "39.054530300000465",
+    "longitude": "-94.57223080899968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11305256200046",
+    "longitude": "-94.55340540399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06443792800047",
+    "longitude": "-94.58098044099967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.111792351000474",
+    "longitude": "-94.55559537699969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10818056700049",
+    "longitude": "-94.54452072199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04211175100045",
+    "longitude": "-94.58590220799965"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.076620705000494",
+    "longitude": "-94.59427051299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09731108800048",
+    "longitude": "-94.58587037499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04154062100048",
+    "longitude": "-94.55577045499967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10785101400046",
+    "longitude": "-94.54378095699968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.012680556000475",
+    "longitude": "-94.53059078099966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10843061300045",
+    "longitude": "-94.54451035199969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10785101400046",
+    "longitude": "-94.54378095699968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11310295700048",
+    "longitude": "-94.53858145799967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10785101400046",
+    "longitude": "-94.54378095699968"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.107840644000476",
+    "longitude": "-94.54365074899965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11280265200048",
+    "longitude": "-94.55446545099966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11295188700046",
+    "longitude": "-94.55446545099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03495071700047",
+    "longitude": "-94.58881099999968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.061810420000484",
+    "longitude": "-94.5858104569997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.061611075000485",
+    "longitude": "-94.56717113699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07386098900048",
+    "longitude": "-94.5633904989997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05668916600047",
+    "longitude": "-94.56740303599969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.05433095500047",
+    "longitude": "-94.60721064499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.020690071000445",
+    "longitude": "-94.60214060199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.30041007400047",
+    "longitude": "-94.5926803649997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.98765067800048",
+    "longitude": "-94.58281106599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.097070261000454",
+    "longitude": "-94.58857017299965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10973038700047",
+    "longitude": "-94.53889067099965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "38.98497047000046",
+    "longitude": "-94.56796044999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03948770000045",
+    "longitude": "-94.59771771899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06848323000048",
+    "longitude": "-94.59875526199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.103812983000466",
+    "longitude": "-94.56324074199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07084849600045",
+    "longitude": "-94.57988998699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07106169000048",
+    "longitude": "-94.58999536899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09114217000047",
+    "longitude": "-94.5703258799997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.096103163000464",
+    "longitude": "-94.5845097349997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1088135600005",
+    "longitude": "-94.58020503899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08481860700044",
+    "longitude": "-94.58162514699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02841465500046",
+    "longitude": "-94.45718633999968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06122161500048",
+    "longitude": "-94.56839647599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05486370500046",
+    "longitude": "-94.59786221799965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.092413604000456",
+    "longitude": "-94.50101616399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.98821342500048",
+    "longitude": "-94.58302156599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05081302400049",
+    "longitude": "-94.58064563999966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.102163101000485",
+    "longitude": "-94.57824247299965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10411607800046",
+    "longitude": "-94.5759871839997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06895225600044",
+    "longitude": "-94.54828638699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.021738138000444",
+    "longitude": "-94.43494905099965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08292236700049",
+    "longitude": "-94.55225534299967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.050587986000494",
+    "longitude": "-94.58641489799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10218989600048",
+    "longitude": "-94.58074633099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.048832691000484",
+    "longitude": "-94.5749261259997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.101118451000445",
+    "longitude": "-94.58080553499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091032019000465",
+    "longitude": "-94.51032605999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06299122100046",
+    "longitude": "-94.56715697899966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.100853144000496",
+    "longitude": "-94.58463117799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07836239000045",
+    "longitude": "-94.56171640599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99263008900044",
+    "longitude": "-94.60693597899967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10300284700048",
+    "longitude": "-94.58546618699967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10351169900048",
+    "longitude": "-94.58416828199967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09013995000049",
+    "longitude": "-94.58482962599965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.092937735000476",
+    "longitude": "-94.58955003099965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099831243000494",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.00258268200048",
+    "longitude": "-94.57994210099969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06835294600046",
+    "longitude": "-94.57787530599967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06691862500048",
+    "longitude": "-94.57259994599968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.093865148000475",
+    "longitude": "-94.59210641999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19433977400047",
+    "longitude": "-94.6837733649997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.94269179900044",
+    "longitude": "-94.59661536499965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.05846994900048",
+    "longitude": "-94.58747638499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99330164900044",
+    "longitude": "-94.60382571899964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.997362989000464",
+    "longitude": "-94.60556206399968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.105717514000446",
+    "longitude": "-94.58799963899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.982961753000495",
+    "longitude": "-94.59004629899965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1036329530005",
+    "longitude": "-94.58581203399967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06122161500048",
+    "longitude": "-94.56839647599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08951007200045",
+    "longitude": "-94.60696271499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10251131700045",
+    "longitude": "-94.6070556039997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09121323400046",
+    "longitude": "-94.51419078799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04366088800049",
+    "longitude": "-94.43837493199965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09006284500049",
+    "longitude": "-94.58363008299966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.089552692000495",
+    "longitude": "-94.5889661169997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.101118451000445",
+    "longitude": "-94.58080553499968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09040785400049",
+    "longitude": "-94.58998625499964"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10151292100045",
+    "longitude": "-94.58425787099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04248899400045",
+    "longitude": "-94.57521512199969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09001969400049",
+    "longitude": "-94.58370203099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.035842242000456",
+    "longitude": "-94.54364886599967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.03595025700048",
+    "longitude": "-94.5732171199997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.035842242000456",
+    "longitude": "-94.54364886599967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10346641700045",
+    "longitude": "-94.5853742009997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09717081400049",
+    "longitude": "-94.5833460939997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.056468580000455",
+    "longitude": "-94.58253951099965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09010225800046",
+    "longitude": "-94.53454605099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03651483200048",
+    "longitude": "-94.60720483999967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10745482200048",
+    "longitude": "-94.58204370299967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10530460700045",
+    "longitude": "-94.5817666909997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.106168822000484",
+    "longitude": "-94.58151404899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.035498609000456",
+    "longitude": "-94.60405904799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.195414034000464",
+    "longitude": "-94.48954559399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.90571811500047",
+    "longitude": "-94.60321693299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.061741107000444",
+    "longitude": "-94.60389075299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04866162400049",
+    "longitude": "-94.56898870999964"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.05722778600045",
+    "longitude": "-94.60286990099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02879248200048",
+    "longitude": "-94.4511458509997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21689723200046",
+    "longitude": "-94.5024350489997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11380347800048",
+    "longitude": "-94.55601228999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.18430190400045",
+    "longitude": "-94.52130553599966"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.076888985000494",
+    "longitude": "-94.57097493599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.058478523000474",
+    "longitude": "-94.54066589499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.014972791000446",
+    "longitude": "-94.5860453629997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.100853144000496",
+    "longitude": "-94.58463117799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.94268767000045",
+    "longitude": "-94.59654611699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.264270868000494",
+    "longitude": "-94.5599054439997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.113129665000486",
+    "longitude": "-94.53972168099966"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10781273400045",
+    "longitude": "-94.54365179199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.00740322900049",
+    "longitude": "-94.55357714399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09968422500049",
+    "longitude": "-94.58204732899969"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.04578046800049",
+    "longitude": "-94.60030446999968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10807804200044",
+    "longitude": "-94.55359490999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099781625000446",
+    "longitude": "-94.57952469599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10520190900047",
+    "longitude": "-94.57596880299968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.13776129500047",
+    "longitude": "-94.52849909899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.076888985000494",
+    "longitude": "-94.57097493599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04203891800046",
+    "longitude": "-94.59736594899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09429980600049",
+    "longitude": "-94.5845648509997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09429980600049",
+    "longitude": "-94.5845648509997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11876338000047",
+    "longitude": "-94.56760646199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09298748000049",
+    "longitude": "-94.59138941899965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.055457127000466",
+    "longitude": "-94.57954169099969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.103783373000454",
+    "longitude": "-94.58972058599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99263008900044",
+    "longitude": "-94.60693597899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.089609544000496",
+    "longitude": "-94.53449512099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06683334800044",
+    "longitude": "-94.57428536099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09255161700048",
+    "longitude": "-94.59456600499965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.944499238000446",
+    "longitude": "-94.51673489999968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.93039765700047",
+    "longitude": "-94.50379996299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.884467439000446",
+    "longitude": "-94.59478867499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.97542298700046",
+    "longitude": "-94.57883586199966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.08920597400049",
+    "longitude": "-94.58783705399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.975927545000445",
+    "longitude": "-94.57789899399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.975083061000475",
+    "longitude": "-94.57808020899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.97432859300045",
+    "longitude": "-94.57810981899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.981223040000486",
+    "longitude": "-94.59033174099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05588363600049",
+    "longitude": "-94.59351638199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06147271000049",
+    "longitude": "-94.56837634099969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.040052663000495",
+    "longitude": "-94.60189631599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.239247848000446",
+    "longitude": "-94.58386012799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06200332500049",
+    "longitude": "-94.58716107699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.22882030600044",
+    "longitude": "-94.67300589799964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05457470900046",
+    "longitude": "-94.59860010399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.055502782000474",
+    "longitude": "-94.59306944999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.239673051000466",
+    "longitude": "-94.53247096599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.967228057000455",
+    "longitude": "-94.60166890899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.083853313000475",
+    "longitude": "-94.53893191899965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06930757900045",
+    "longitude": "-94.55283570299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099831243000494",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05628736500046",
+    "longitude": "-94.5930452239997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.053281333000484",
+    "longitude": "-94.59181580699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.289712119000455",
+    "longitude": "-94.55689525799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09114335400045",
+    "longitude": "-94.51111132299968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.100853144000496",
+    "longitude": "-94.58463117799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.995952358000466",
+    "longitude": "-94.60444634999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.978726305000464",
+    "longitude": "-94.39850950699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.056492268000454",
+    "longitude": "-94.57212618199969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.107736530000466",
+    "longitude": "-94.58524452599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.105933364000464",
+    "longitude": "-94.58033072299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10300284700048",
+    "longitude": "-94.58546618699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.985073556000486",
+    "longitude": "-94.57118102299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99525237100045",
+    "longitude": "-94.5697455189997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10861931700049",
+    "longitude": "-94.58430309699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10943203000045",
+    "longitude": "-94.58455261999967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06770270400045",
+    "longitude": "-94.59012565399968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.068140662000474",
+    "longitude": "-94.59010275599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.18907152000048",
+    "longitude": "-94.52122618099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07253983300046",
+    "longitude": "-94.58082566999968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.91892901900047",
+    "longitude": "-94.5342890339997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.068988973000444",
+    "longitude": "-94.58534537699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.25370356600047",
+    "longitude": "-94.47776545699969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.104783015000464",
+    "longitude": "-94.59118333099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1080413250005",
+    "longitude": "-94.58533827099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.039812967000444",
+    "longitude": "-94.5913966229997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.099920460000476",
+    "longitude": "-94.58316792399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05248304100047",
+    "longitude": "-94.57472596099967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10432820200049",
+    "longitude": "-94.57692896299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05097380100045",
+    "longitude": "-94.58044566099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99263008900044",
+    "longitude": "-94.60693597899967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1036329530005",
+    "longitude": "-94.58581203399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08226803700046",
+    "longitude": "-94.59463046299965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.066292073000454",
+    "longitude": "-94.58557633699968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09257171100046",
+    "longitude": "-94.58471116899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.178363274000446",
+    "longitude": "-94.55108040799968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.05293193200049",
+    "longitude": "-94.57234529699969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10530460700045",
+    "longitude": "-94.5817666909997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09948752000048",
+    "longitude": "-94.5855751529997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09429980600049",
+    "longitude": "-94.5845648509997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.103574463000484",
+    "longitude": "-94.59214314199966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09001969400049",
+    "longitude": "-94.58370203099969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.08891429500045",
+    "longitude": "-94.58720726899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05614571600046",
+    "longitude": "-94.5768096169997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10423344800046",
+    "longitude": "-94.60201357299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08710333300047",
+    "longitude": "-94.5925454019997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.067655243000445",
+    "longitude": "-94.54125999599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.28389416500045",
+    "longitude": "-94.56708770299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03550808400047",
+    "longitude": "-94.60430895799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.98819329000048",
+    "longitude": "-94.58255135499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.17263073200047",
+    "longitude": "-94.58655584399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.068331626000486",
+    "longitude": "-94.57556570699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11177360500045",
+    "longitude": "-94.56798184799965"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.988643366000474",
+    "longitude": "-94.5934716109997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.17713622500048",
+    "longitude": "-94.59800197799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05417793100048",
+    "longitude": "-94.58543894499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.103434448000485",
+    "longitude": "-94.57825953699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06505318000046",
+    "longitude": "-94.5739963639997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06490276000045",
+    "longitude": "-94.57285577899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.199292975000446",
+    "longitude": "-94.51797497699965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.06834820800049",
+    "longitude": "-94.58538564699967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.042923672000484",
+    "longitude": "-94.5763758439997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.97266212800048",
+    "longitude": "-94.5628060629997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.27842100900045",
+    "longitude": "-94.5157163079997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09358205300049",
+    "longitude": "-94.58352612399966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09564884800045",
+    "longitude": "-94.58335556899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04533276100045",
+    "longitude": "-94.5972854099997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08918197200046",
+    "longitude": "-94.59013631399966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1022709290005",
+    "longitude": "-94.59107406199968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09403884000045",
+    "longitude": "-94.58873543699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.94700307900047",
+    "longitude": "-94.59640539299966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.090958586000454",
+    "longitude": "-94.58995509899967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09256256100048",
+    "longitude": "-94.58986223899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04059156900047",
+    "longitude": "-94.59868538199964"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.174748456000486",
+    "longitude": "-94.50378219699968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.100455773000476",
+    "longitude": "-94.57506183399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03074794200046",
+    "longitude": "-94.57588549799965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.055502782000474",
+    "longitude": "-94.59306944999969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.113887570000486",
+    "longitude": "-94.52956916199969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.063242570000455",
+    "longitude": "-94.5439764409997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04000291800048",
+    "longitude": "-94.58909166499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03503313600049",
+    "longitude": "-94.59175184899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09330253200045",
+    "longitude": "-94.58354625899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.055496631000494",
+    "longitude": "-94.59306944999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.981283445000486",
+    "longitude": "-94.59200175899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.108972147000486",
+    "longitude": "-94.5630983319997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10218989600048",
+    "longitude": "-94.58074633099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19268160100046",
+    "longitude": "-94.68368571799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04922391500048",
+    "longitude": "-94.58657097099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.013277900000446",
+    "longitude": "-94.57437892899969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10603848800048",
+    "longitude": "-94.57393951299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09666388700049",
+    "longitude": "-94.58450563099967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.983827557000495",
+    "longitude": "-94.58551000999967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09549995700047",
+    "longitude": "-94.5834262839997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08878874800047",
+    "longitude": "-94.58482542099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26137719500048",
+    "longitude": "-94.6553145909997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.98610754500049",
+    "longitude": "-94.56964958099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09121323400046",
+    "longitude": "-94.51430093799968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07033920000049",
+    "longitude": "-94.58123547599968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.0787828550005",
+    "longitude": "-94.5277155609997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10847008100046",
+    "longitude": "-94.58291378499968"
+  },
+  {
+    "department": "General Service",
+    "latitude": "39.09976822400046",
+    "longitude": "-94.57760052299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.90571811500047",
+    "longitude": "-94.60321693299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.17956439000045",
+    "longitude": "-94.55934245699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.107914552000466",
+    "longitude": "-94.58406027899969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10616758900045",
+    "longitude": "-94.58158487599968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10601480000048",
+    "longitude": "-94.57941622299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10283229200047",
+    "longitude": "-94.53542606699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03973886300048",
+    "longitude": "-94.59871484099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.983827557000495",
+    "longitude": "-94.58551000999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.098572266000474",
+    "longitude": "-94.58562457499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.94517316600047",
+    "longitude": "-94.5096225209997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.91503823500045",
+    "longitude": "-94.6047791689997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19896370900045",
+    "longitude": "-94.63092145699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.071028527000465",
+    "longitude": "-94.53548528799968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.198739856000486",
+    "longitude": "-94.63151484599967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.98624849000049",
+    "longitude": "-94.60707573999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03529370500047",
+    "longitude": "-94.51030592499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.27784845800045",
+    "longitude": "-94.67007063299968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09429980600049",
+    "longitude": "-94.5845648509997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.015748579000444",
+    "longitude": "-94.60184538699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11382361200049",
+    "longitude": "-94.55633207999966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.089633232000494",
+    "longitude": "-94.54390170199969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08962411000044",
+    "longitude": "-94.53924786699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.27984940700048",
+    "longitude": "-94.5156156329997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10222334100047",
+    "longitude": "-94.58196850499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.104228710000484",
+    "longitude": "-94.58181583699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09429980600049",
+    "longitude": "-94.5845648509997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19772837000045",
+    "longitude": "-94.63222075399966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.17229969100049",
+    "longitude": "-94.54003344799969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11427141700045",
+    "longitude": "-94.53616077899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11366253300048",
+    "longitude": "-94.55737554499967"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.105163210000455",
+    "longitude": "-94.57423916899967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.04611955500047",
+    "longitude": "-94.58161343999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0917054410005",
+    "longitude": "-94.58361879699964"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.108981746000495",
+    "longitude": "-94.52708545499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.109308643000475",
+    "longitude": "-94.54442521099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.031883791000496",
+    "longitude": "-94.50945670299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.050662255000475",
+    "longitude": "-94.59686120699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.057522357000494",
+    "longitude": "-94.59072474499965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "38.94778597400045",
+    "longitude": "-94.58841418199967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.054851861000486",
+    "longitude": "-94.58856578599966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.96678271900049",
+    "longitude": "-94.5929315199997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08340323800047",
+    "longitude": "-94.58734939799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.088686761000474",
+    "longitude": "-94.58377612999965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.104973704000486",
+    "longitude": "-94.58315540399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.24166404300047",
+    "longitude": "-94.4615591809997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.110236416000475",
+    "longitude": "-94.55347854199965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10967817900047",
+    "longitude": "-94.57606552799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04045891600049",
+    "longitude": "-94.58236540199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03551755900048",
+    "longitude": "-94.60444871899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.035683658000494",
+    "longitude": "-94.53400809799967"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.06081252700045",
+    "longitude": "-94.57538852899967"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26668824800049",
+    "longitude": "-94.53233001999968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.098572266000474",
+    "longitude": "-94.58562457499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04907194200047",
+    "longitude": "-94.58309618299967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09272217200049",
+    "longitude": "-94.57431615499968"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.102732802000446",
+    "longitude": "-94.58548632099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.061478632000444",
+    "longitude": "-94.55787536699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.985073556000486",
+    "longitude": "-94.59903596699968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.105248488000484",
+    "longitude": "-94.57666839199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091509336000456",
+    "longitude": "-94.58246489299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07106169000048",
+    "longitude": "-94.58999536899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11082231800049",
+    "longitude": "-94.5524555079997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09549995700047",
+    "longitude": "-94.5834262839997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "38.94303114000047",
+    "longitude": "-94.59652905399969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08749774100045",
+    "longitude": "-94.5922493009997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099873636000495",
+    "longitude": "-94.58241159399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.31101430700045",
+    "longitude": "-94.66106823099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.015745938000464",
+    "longitude": "-94.59013443699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07096303200046",
+    "longitude": "-94.58300850099965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.05710305800045",
+    "longitude": "-94.60375233999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05004671100045",
+    "longitude": "-94.59815358199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.077511984000466",
+    "longitude": "-94.57101638999967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05004671100045",
+    "longitude": "-94.59815358199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.078821941000456",
+    "longitude": "-94.54205639199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.28944348100049",
+    "longitude": "-94.5927598779997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.03971865900047",
+    "longitude": "-94.58240567199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08339845100045",
+    "longitude": "-94.58739423699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.98861375600046",
+    "longitude": "-94.59276214999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11785297400047",
+    "longitude": "-94.5286251879997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.0682878020005",
+    "longitude": "-94.57662575399968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.03656915300047",
+    "longitude": "-94.5854811109997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10568790400049",
+    "longitude": "-94.58706987699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09426901100045",
+    "longitude": "-94.58342544899966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.072727415000486",
+    "longitude": "-94.58282469199969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.099831243000494",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.92445192100047",
+    "longitude": "-94.5321570969997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10100001000046",
+    "longitude": "-94.58420478999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03798466800049",
+    "longitude": "-94.5780341149997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.983827557000495",
+    "longitude": "-94.58551000999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08582890800045",
+    "longitude": "-94.58158487599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11033718400046",
+    "longitude": "-94.58085492799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.104475961000446",
+    "longitude": "-94.58821207799969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09977857400048",
+    "longitude": "-94.57952451399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08843816200044",
+    "longitude": "-94.58372510399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.24640725500046",
+    "longitude": "-94.62455842199967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.24640725500046",
+    "longitude": "-94.62455842199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10351169900048",
+    "longitude": "-94.58416828199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.103273799000476",
+    "longitude": "-94.58313062199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091299011000444",
+    "longitude": "-94.57543171299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.108972147000486",
+    "longitude": "-94.5630983319997"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.04352179900047",
+    "longitude": "-94.58961398899964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1006186300005",
+    "longitude": "-94.58200534199966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19149482300048",
+    "longitude": "-94.52821775099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04551999600045",
+    "longitude": "-94.58672643499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09125180400048",
+    "longitude": "-94.57543343699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09284890300046",
+    "longitude": "-94.5921652079997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05769918100049",
+    "longitude": "-94.5673352449997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09555291100048",
+    "longitude": "-94.57727125699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.184476438000445",
+    "longitude": "-94.52339833999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.082268573000476",
+    "longitude": "-94.56238085999968"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.11087790100049",
+    "longitude": "-94.5494313429997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09529352500044",
+    "longitude": "-94.56876127399966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.042368326000485",
+    "longitude": "-94.59221253099969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.05938222700047",
+    "longitude": "-94.59410645499969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.072763687000474",
+    "longitude": "-94.58385183699966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.06338316200049",
+    "longitude": "-94.59042530999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.068512840000494",
+    "longitude": "-94.57667549899969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.11228861800049",
+    "longitude": "-94.55230508799968"
+  },
+  {
+    "department": "Water Services"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10887278100046",
+    "longitude": "-94.5202218019997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10887278100046",
+    "longitude": "-94.5202218019997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0390122820005",
+    "longitude": "-94.59916688999965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.05978255800045",
+    "longitude": "-94.59408631999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10259777900046",
+    "longitude": "-94.58826494699969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.024598495000475",
+    "longitude": "-94.56341543599967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.02481858200048",
+    "longitude": "-94.5634050649997"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10185109000048",
+    "longitude": "-94.5710669559997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.0615461430005",
+    "longitude": "-94.59360544899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10449875600045",
+    "longitude": "-94.57367538899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.085087468000495",
+    "longitude": "-94.58395487999968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.095663097000454",
+    "longitude": "-94.5751495619997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10786366400049",
+    "longitude": "-94.5449617489997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.107631049000474",
+    "longitude": "-94.58111824999969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05570226700047",
+    "longitude": "-94.5861863079997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.108823036000445",
+    "longitude": "-94.55700600999967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.03933979700048",
+    "longitude": "-94.58849074799969"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "NCS",
+    "latitude": "38.985082143000454",
+    "longitude": "-94.56683540799969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.112523739000494",
+    "longitude": "-94.54816570499969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09040785400049",
+    "longitude": "-94.58998625499964"
+  },
+  {
+    "department": "Parks & Rec"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09057815200049",
+    "longitude": "-94.57779475999968"
+  },
+  {
+    "department": "Parks & Rec"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.108972147000486",
+    "longitude": "-94.5630983319997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.05969930500049",
+    "longitude": "-94.56952483399965"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.083845444000474",
+    "longitude": "-94.58436857699968"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Health"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09404306400046",
+    "longitude": "-94.51777124799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10151292100045",
+    "longitude": "-94.58425787099969"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09546699700047",
+    "longitude": "-94.58342828999969"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10931101200049",
+    "longitude": "-94.58444759499969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.070098647000464",
+    "longitude": "-94.52049524299969"
+  },
+  {
+    "department": "Water Services"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.187689315000455",
+    "longitude": "-94.49913575899967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.0546188940005",
+    "longitude": "-94.55012501699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07078809100045",
+    "longitude": "-94.57834906999966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.9461147720005",
+    "longitude": "-94.5875696979997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "38.94596790500049",
+    "longitude": "-94.58877661199966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.229937204000464",
+    "longitude": "-94.62720833299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.01581727500047",
+    "longitude": "-94.59671689299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10764810100045",
+    "longitude": "-94.54451522599965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09564884800045",
+    "longitude": "-94.58335556899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09914262800049",
+    "longitude": "-94.58323611199967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.1104587050005",
+    "longitude": "-94.52574470299965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.229937204000464",
+    "longitude": "-94.62720833299966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.056582283000466",
+    "longitude": "-94.59078536999965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.00001369800049",
+    "longitude": "-94.60274198499968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10764336300048",
+    "longitude": "-94.5382911539997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11854240600047",
+    "longitude": "-94.52618478199969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.114202624000484",
+    "longitude": "-94.54097147299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11030236300047",
+    "longitude": "-94.51232534299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.94126224600046",
+    "longitude": "-94.59667543899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99292856000045",
+    "longitude": "-94.60342538899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06860759300048",
+    "longitude": "-94.56849004499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.25041868900047",
+    "longitude": "-94.4651113059997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10978832900048",
+    "longitude": "-94.52229570199967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.07280277200044",
+    "longitude": "-94.54123559699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10904807300045",
+    "longitude": "-94.52449041299968"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1006589000005",
+    "longitude": "-94.57731507999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.100229665000484",
+    "longitude": "-94.58201556899968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.22728601900047",
+    "longitude": "-94.62845483099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10087148600047",
+    "longitude": "-94.57973635499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03550830000046",
+    "longitude": "-94.6043087649997"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.011661828000456",
+    "longitude": "-94.58852596099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19603959300048",
+    "longitude": "-94.48827513799966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.115382171000476",
+    "longitude": "-94.50917637799967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11386807200046",
+    "longitude": "-94.51045541099967"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.11215808600048",
+    "longitude": "-94.53682998999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03866324700044",
+    "longitude": "-94.55105145199968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.062871258000484",
+    "longitude": "-94.58577006499968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11567830700045",
+    "longitude": "-94.51035516299964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.038188508000474",
+    "longitude": "-94.58592526099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02228817000048",
+    "longitude": "-94.60143612599967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.103466642000456",
+    "longitude": "-94.58537418899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10087326100046",
+    "longitude": "-94.57853649599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.098572850000494",
+    "longitude": "-94.58562457499966"
+  },
+  {
+    "department": "Public Works"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10788773000047",
+    "longitude": "-94.54394993799968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.27608821500047",
+    "longitude": "-94.57066660199968"
+  },
+  {
+    "department": "KCPD",
+    "latitude": "39.1142033860005",
+    "longitude": "-94.54097128999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06780202600049",
+    "longitude": "-94.58774587699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.28773345400049",
+    "longitude": "-94.60257291199969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.063248332000455",
+    "longitude": "-94.57135004799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09976760000046",
+    "longitude": "-94.57760002399965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09149767300045",
+    "longitude": "-94.57319946099966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.113002709000455",
+    "longitude": "-94.51403555099967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11347860100045",
+    "longitude": "-94.51506568999969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.07084763100045",
+    "longitude": "-94.57988960799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09561823300049",
+    "longitude": "-94.58227483199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.103319979000446",
+    "longitude": "-94.57959981499965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.0931085630005",
+    "longitude": "-94.59470910499965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.0931085630005",
+    "longitude": "-94.59470910499965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.265816019000454",
+    "longitude": "-94.52825816499967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.063300385000446",
+    "longitude": "-94.6010622719997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.033689999000444",
+    "longitude": "-94.60746486499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06881270100047",
+    "longitude": "-94.57648115899968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.130786886000465",
+    "longitude": "-94.52603904999967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.195653578000474",
+    "longitude": "-94.57827295699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08160763900048",
+    "longitude": "-94.57728084199965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.108183866000445",
+    "longitude": "-94.57835476999969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.042366780000464",
+    "longitude": "-94.59221268399966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.11359843800045",
+    "longitude": "-94.55542551299965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.03495290000046",
+    "longitude": "-94.58985223699966"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.083420178000495",
+    "longitude": "-94.57949437599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19589434000045",
+    "longitude": "-94.68316530499965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.093123543000445",
+    "longitude": "-94.59668065999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05936860000048",
+    "longitude": "-94.59521495699965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "38.993712734000496",
+    "longitude": "-94.51259980799966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09983182600047",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11682367500049",
+    "longitude": "-94.52805882099966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10886628300045",
+    "longitude": "-94.56314091099966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11503187700049",
+    "longitude": "-94.50918559599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10460257400047",
+    "longitude": "-94.58666156899966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.093204097000466",
+    "longitude": "-94.5775930639997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.111079551000444",
+    "longitude": "-94.58378316899967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "38.967619312000465",
+    "longitude": "-94.50880534399965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.130786886000465",
+    "longitude": "-94.52603904999967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.115949094000484",
+    "longitude": "-94.52078561799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19926367700049",
+    "longitude": "-94.51225527499969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03575808700049",
+    "longitude": "-94.56392082499968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.03495290000046",
+    "longitude": "-94.58985223699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.94767561800046",
+    "longitude": "-94.5884971539997"
+  },
+  {
+    "department": "City Managers Office",
+    "latitude": "39.04192881400047",
+    "longitude": "-94.58797516999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.2360433610005",
+    "longitude": "-94.63484077599969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11229290300048",
+    "longitude": "-94.54179171499965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.107188073000486",
+    "longitude": "-94.54599582899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.22739210800046",
+    "longitude": "-94.54757931899968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.088482152000495",
+    "longitude": "-94.59365591899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.103002055000445",
+    "longitude": "-94.58546549999966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10680919400045",
+    "longitude": "-94.54594569099964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.98499341700045",
+    "longitude": "-94.59350151399968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09959245300047",
+    "longitude": "-94.57978590299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.117659792000495",
+    "longitude": "-94.50892939599964"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11087790100049",
+    "longitude": "-94.5494313429997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.130786886000465",
+    "longitude": "-94.52603904999967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.05238231500044",
+    "longitude": "-94.57822571299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.983168203000446",
+    "longitude": "-94.59231927199966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09376503900046",
+    "longitude": "-94.59445183699967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.0931085630005",
+    "longitude": "-94.59470910499965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.01415306100046",
+    "longitude": "-94.6025757329997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05570203800045",
+    "longitude": "-94.58618567699966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10447654400048",
+    "longitude": "-94.58821207799969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "38.988348862000464",
+    "longitude": "-94.58971511499965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09114161800045",
+    "longitude": "-94.57032566999965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11087790100049",
+    "longitude": "-94.5494313429997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10318181100047",
+    "longitude": "-94.57842621099968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09014259000048",
+    "longitude": "-94.59007577899968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.052063132000455",
+    "longitude": "-94.5758854289997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.073091124000484",
+    "longitude": "-94.58528574499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0565823820005",
+    "longitude": "-94.5907855859997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "38.932131566000464",
+    "longitude": "-94.55357918999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10208253400049",
+    "longitude": "-94.57966606599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09650894700047",
+    "longitude": "-94.58104534699964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06774799300047",
+    "longitude": "-94.59508935799965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07379862500045",
+    "longitude": "-94.57871543399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.2302082060005",
+    "longitude": "-94.48161034099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11312369800049",
+    "longitude": "-94.53931085199969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.19983751400048",
+    "longitude": "-94.58633662499966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.114197625000486",
+    "longitude": "-94.51583887099969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0565823820005",
+    "longitude": "-94.5907855859997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09099873500048",
+    "longitude": "-94.58358497699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.02625202000047",
+    "longitude": "-94.5913260049997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11443646400045",
+    "longitude": "-94.54399133199968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11232499300047",
+    "longitude": "-94.54433968199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99365281600046",
+    "longitude": "-94.59428621699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10432833100049",
+    "longitude": "-94.57692939599968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09905346300047",
+    "longitude": "-94.58566947199967"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.09905346300047",
+    "longitude": "-94.58566947199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06274824200045",
+    "longitude": "-94.55605004999967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.059738482000455",
+    "longitude": "-94.59402580199969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.013435169000445",
+    "longitude": "-94.59072876699969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.18430129900048",
+    "longitude": "-94.52130644899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.104593356000464",
+    "longitude": "-94.58634123499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10764920700046",
+    "longitude": "-94.54451570899965"
+  },
+  {
+    "department": "City Planning and Development",
+    "latitude": "39.10212286400048",
+    "longitude": "-94.58835542299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09914214800045",
+    "longitude": "-94.58323609499968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0998736090005",
+    "longitude": "-94.5824108009997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091039896000495",
+    "longitude": "-94.59350359599966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.193448015000456",
+    "longitude": "-94.68363003599967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.043987942000456",
+    "longitude": "-94.59728560699966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "38.98171863200048",
+    "longitude": "-94.5900158609997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09906585000044",
+    "longitude": "-94.55590841699967"
+  },
+  {
+    "department": "City Planning and Development",
+    "latitude": "39.106812651000496",
+    "longitude": "-94.5260354139997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10835426000045",
+    "longitude": "-94.58255068999966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.07084763100045",
+    "longitude": "-94.57988960799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.06726057800046",
+    "longitude": "-94.60675621099966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.084108090000484",
+    "longitude": "-94.59826965599967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11854240600047",
+    "longitude": "-94.52618478199969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.09564819300044",
+    "longitude": "-94.5833556719997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05607883500045",
+    "longitude": "-94.55119548699969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.05799853600047",
+    "longitude": "-94.56962508199967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10728682300049",
+    "longitude": "-94.5422485149997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.095696589000454",
+    "longitude": "-94.5943749439997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.039943432000484",
+    "longitude": "-94.58759145999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10421886500046",
+    "longitude": "-94.58533529299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09960994700049",
+    "longitude": "-94.58205156899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10421886500046",
+    "longitude": "-94.58533529299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05656208400046",
+    "longitude": "-94.58848556299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05657777300047",
+    "longitude": "-94.58572015499965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.08384289100047",
+    "longitude": "-94.58436739599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10771719200045",
+    "longitude": "-94.59048368799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1155102350005",
+    "longitude": "-94.5663546239997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.078152763000446",
+    "longitude": "-94.58472341799967"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.078152763000446",
+    "longitude": "-94.58472341799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09053571800047",
+    "longitude": "-94.59647908599965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1061224340005",
+    "longitude": "-94.58424638699967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.04404325200045",
+    "longitude": "-94.57286529899966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "38.9840427850005",
+    "longitude": "-94.5923411659997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10846387100048",
+    "longitude": "-94.58198560999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.098572850000494",
+    "longitude": "-94.58562457499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.01366177300048",
+    "longitude": "-94.58603045499967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.1089420670005",
+    "longitude": "-94.54590536099965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10213538200048",
+    "longitude": "-94.58190461799967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11074766000047",
+    "longitude": "-94.5836625179997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10087326100046",
+    "longitude": "-94.57853649599969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1029502720005",
+    "longitude": "-94.5830775179997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.25479182900045",
+    "longitude": "-94.5389157409997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.26020036500046",
+    "longitude": "-94.53891322999965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10224981300047",
+    "longitude": "-94.58060510099966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.102233483000475",
+    "longitude": "-94.58492162399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05570203800045",
+    "longitude": "-94.58618567699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.079363996000495",
+    "longitude": "-94.57092684299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.095696589000454",
+    "longitude": "-94.5943749439997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08627028000046",
+    "longitude": "-94.57568926199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.083549234000486",
+    "longitude": "-94.57062526299967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09976760000046",
+    "longitude": "-94.57760002399965"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.0998736090005",
+    "longitude": "-94.5824108009997"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.087256124000476",
+    "longitude": "-94.5912856759997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09983182600047",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.25099082300045",
+    "longitude": "-94.60098994599969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10679149800046",
+    "longitude": "-94.5632843199997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09268913200049",
+    "longitude": "-94.58873567599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05973041600049",
+    "longitude": "-94.60722518999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.055908297000485",
+    "longitude": "-94.56676050899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05827854100045",
+    "longitude": "-94.58830587499966"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.07914866900046",
+    "longitude": "-94.57841583999965"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.07914866900046",
+    "longitude": "-94.57841583999965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09983182600047",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21054777100045",
+    "longitude": "-94.64302674399966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.08448663900049",
+    "longitude": "-94.59416119199966"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05657777300047",
+    "longitude": "-94.58572015499965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11143791000046",
+    "longitude": "-94.54160965399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.052345442000444",
+    "longitude": "-94.59390020299969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.109237178000456",
+    "longitude": "-94.57668643499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.07482492700046",
+    "longitude": "-94.55261555699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99220854800046",
+    "longitude": "-94.59434873399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.091782287000456",
+    "longitude": "-94.58599554999967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09155183000047",
+    "longitude": "-94.58018574499965"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "City Planning and Development",
+    "latitude": "39.11261278100045",
+    "longitude": "-94.52569582199965"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.10691750900048",
+    "longitude": "-94.5419299889997"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09293802500048",
+    "longitude": "-94.58954918699965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.23933253500047",
+    "longitude": "-94.68950308099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10549791000045",
+    "longitude": "-94.58738036799969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.08843836500046",
+    "longitude": "-94.58372555499966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.109938791000445",
+    "longitude": "-94.54439471999967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.109497468000484",
+    "longitude": "-94.53823922999965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.109453681000446",
+    "longitude": "-94.53844087999965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10672853400047",
+    "longitude": "-94.5361201829997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.106718163000494",
+    "longitude": "-94.53588972799969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10666285400049",
+    "longitude": "-94.5357917829997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10666285400049",
+    "longitude": "-94.5358309619997"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.112068208000494",
+    "longitude": "-94.53400920399969"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.112237593000486",
+    "longitude": "-94.53861948299965"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11228368500048",
+    "longitude": "-94.54144142199965"
+  },
+  {
+    "department": "City Planning and Development",
+    "latitude": "39.10849267800046",
+    "longitude": "-94.53899627899966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10848346000046",
+    "longitude": "-94.5360614169997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10852839900048",
+    "longitude": "-94.5359692349997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10860329700046",
+    "longitude": "-94.53978098399966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10847308900048",
+    "longitude": "-94.53597153999965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10852839900048",
+    "longitude": "-94.53573993099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1084627190005",
+    "longitude": "-94.53560165699969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10923244300045",
+    "longitude": "-94.53404607699969"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10952857900048",
+    "longitude": "-94.53512576399964"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.1093926100005",
+    "longitude": "-94.53643129999966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.109407590000444",
+    "longitude": "-94.53549910399965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.109417960000485",
+    "longitude": "-94.53556939299966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10942833100046",
+    "longitude": "-94.53582980899967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.11142754000048",
+    "longitude": "-94.54129968999968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.107868141000495",
+    "longitude": "-94.54342910799966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10870815400045",
+    "longitude": "-94.54147022899969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11232499300047",
+    "longitude": "-94.54433968199965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10675849400047",
+    "longitude": "-94.5370397049997"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10760772500049",
+    "longitude": "-94.53585976899967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10791884100047",
+    "longitude": "-94.53753518599967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.107898100000455",
+    "longitude": "-94.54035481899967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10784855200046",
+    "longitude": "-94.54302926599968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.10779324300046",
+    "longitude": "-94.54315140799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05570203800045",
+    "longitude": "-94.58618567699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.23334539600046",
+    "longitude": "-94.50764307199967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10542184600047",
+    "longitude": "-94.58535603399969"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.108467214000484",
+    "longitude": "-94.58163509299965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05570203800045",
+    "longitude": "-94.58618567699966"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10632452700048",
+    "longitude": "-94.58529826799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05497850500046",
+    "longitude": "-94.59308202399967"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.05648328600046",
+    "longitude": "-94.59310628099968"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.11232499300047",
+    "longitude": "-94.54433968199965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.060522033000495",
+    "longitude": "-94.58236586199968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09293226400047",
+    "longitude": "-94.59339550399966"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09143890700045",
+    "longitude": "-94.57659523499967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11734796400049",
+    "longitude": "-94.53259189699969"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11238854300046",
+    "longitude": "-94.51550009999966"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11262706800045",
+    "longitude": "-94.52303720099968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11261323700046",
+    "longitude": "-94.52419176299969"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.07726814500046",
+    "longitude": "-94.56517612199968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11330806400048",
+    "longitude": "-94.54321939199968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11326910800045",
+    "longitude": "-94.54380242099967"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.11423680200045",
+    "longitude": "-94.54394532899965"
+  },
+  {
+    "department": "NCS",
+    "latitude": "39.09271217900044",
+    "longitude": "-94.59224552599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.03997205000047",
+    "longitude": "-94.59750840699968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.061211098000456",
+    "longitude": "-94.60381558799969"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.107737113000496",
+    "longitude": "-94.58524452599966"
+  },
+  {
+    "department": "Health",
+    "latitude": "39.09356947600048",
+    "longitude": "-94.58345476799968"
+  },
+  {
+    "department": "NCS",
+    "latitude": "38.95959827900049",
+    "longitude": "-94.59105521899966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.30243783900045",
+    "longitude": "-94.47904996999966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.09983182600047",
+    "longitude": "-94.58320562499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.92609222800047",
+    "longitude": "-94.59259581999964"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "38.99931157700047",
+    "longitude": "-94.58918554699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10197191500049",
+    "longitude": "-94.58082641399966"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.289042563000464",
+    "longitude": "-94.47920091899965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.0982303560005",
+    "longitude": "-94.57509271399965"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10747867000049",
+    "longitude": "-94.5142948139997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.09564819300044",
+    "longitude": "-94.5833556719997"
+  },
+  {
+    "department": "Parks & Rec",
+    "latitude": "39.10292830900045",
+    "longitude": "-94.58823558599966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10224095200044",
+    "longitude": "-94.58309517699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.21073628200048",
+    "longitude": "-94.62381930699968"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.05650287500049",
+    "longitude": "-94.58518088599965"
+  },
+  {
+    "department": "NCS"
+  },
+  {
+    "department": "Water Services",
+    "latitude": "39.10224981300047",
+    "longitude": "-94.58060510099966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10224095200044",
+    "longitude": "-94.58309517699968"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.10616737300046",
+    "longitude": "-94.58158461499966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.065653145000454",
+    "longitude": "-94.57301624699966"
+  },
+  {
+    "department": "Public Works",
+    "latitude": "39.107898100000455",
+    "longitude": "-94.54035481899967"
+  }
+]

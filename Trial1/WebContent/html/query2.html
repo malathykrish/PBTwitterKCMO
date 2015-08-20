@@ -1,0 +1,21 @@
+<div ng-controller="query2Ctrl">
+    <div class="row content">
+        <div class="col-lg-12">
+            <div id="map-canvas"></div>
+        </div>
+    </div>
+    <!-- /.row -->
+
+    <div class="row last">
+        <div class="col-md-12">
+            <h4>Department Key:</h4>
+            <table>
+                <tr ng-repeat="department in departments">
+                    <td class="legendKey" style="background-color: #{{colorSet[departments.indexOf(department)]}}">{{department}}</td>
+                </tr>
+            </table>
+
+        </div>
+    </div>
+    <!-- /.row -->
+</div>
